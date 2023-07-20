@@ -1,1 +1,2 @@
-# Insightful-News-App
+# Insightful - News App
+
