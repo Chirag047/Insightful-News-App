@@ -17,7 +17,7 @@ https://expanding-cards-web.vercel.app/-->
 
  <hr>
 
-## Demo 
+## Screenshots
 
 <hr>
 
